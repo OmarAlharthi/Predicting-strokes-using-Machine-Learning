@@ -17,3 +17,19 @@ Objectives:
 This research project aims to improve patient healthcare outcomes and lower healthcare spending on heart-stroke treatment. These objectives can be achieved by: 
 •	detecting the disease before complications.
 •	Identify risk factors and reduce the risk of heart strokes. 
+
+Data Exploration
+The data has 12 columns without the id and class 10.
+Attribute Information
+1) id: unique identifier
+2) gender: "Male," "Female," or "Other."
+3) age: age of the patient
+4) Hypertension: 0 if the patient does not have hypertension. One of the patients has hypertension
+5) Heart Disease: 0 if the patient does not have any heart diseases; 1 if the patient has a heart disease
+6) ever married: "No" or "Yes."
+7) work type: "children," "Govt job," "Never worked," "Private," or "Self-employed."
+8) Residence type: "Rural" or "Urban."
+9) avg_glucose_level: average glucose level in blood
+10) BMI: body mass index
+11) smoking status: "formerly smoked," "never smoked," "smokes," or "Unknown"*
+12) Stroke: 1 if the patient had a stroke or 0 if not

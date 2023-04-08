@@ -33,3 +33,9 @@ Attribute Information
 10) BMI: body mass index
 11) smoking status: "formerly smoked," "never smoked," "smokes," or "Unknown"*
 12) Stroke: 1 if the patient had a stroke or 0 if not
+
+From the visulaization it is clear that oversampling data is having better predictions scores than original data.
+
+What can we do furthur?
+
+May be explore gridsearch and stratified fold implementation could be give better results.
